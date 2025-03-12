@@ -1,4 +1,4 @@
-# UnityCustomPhysicsCPP
+# UnityCustomPhysicsLibrary
 **WORK IN PROGRESS**
 
 ### Preview
